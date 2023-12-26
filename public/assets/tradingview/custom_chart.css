@@ -1,0 +1,17 @@
+html .chart-page {
+    background-color: transparent !important;
+}
+.button-5-QHyx-s .icon-5-QHyx-s svg {
+    width: 24px !important;
+    height: 24px !important;
+}
+.noWrap-1WIwNaDF .series-1WIwNaDF.item-1WIwNaDF,
+.series-1WIwNaDF .titleWrapper-1WIwNaDF,
+.sources-1WIwNaDF .item-1WIwNaDF {
+    font-size: 10px !important;
+}
+.series-1WIwNaDF .valuesWrapper-1WIwNaDF {
+    display: flex !important;
+    align-items: center !important;
+    border: none !important;
+}

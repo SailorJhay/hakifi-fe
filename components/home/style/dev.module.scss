@@ -1,0 +1,15 @@
+
+
+.card {
+    transition: box-shadow 0.3s ease-in !important;
+  
+}
+
+.card:hover{
+        p {
+          color: #5563F7;
+        }
+        svg {
+          opacity: 1 !important;
+        }
+}

@@ -1,0 +1,21 @@
+{
+    "bull": "bull",
+    "bear": "bear",
+    "cover_amount": "Cover Amount",
+    "claim_price": "Claim Price",
+    "margin": "Margin",
+    "period": "Period",
+    "buy_cover": "Buy Cover",
+    "saving": "Saving",
+    "saved": "Saved",
+    "insurance_information": "Insurance information",
+    "adjust_claim_price": "Adjustion Claim Price",
+    "market_price": "P-Market",
+    "quantity_claim": "Q-Claim",
+    "confirm": "Confirm",
+    "order_opening": "Opening",
+    "order_history": "History",
+    "asset": "Asset",
+    "contract": "Contract",
+    "expired_at": "Expired"
+}

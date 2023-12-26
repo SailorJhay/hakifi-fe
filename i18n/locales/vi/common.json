@@ -1,0 +1,7 @@
+{
+    "connect_wallet": "Kết nối ví",
+    "update_rule": "Cập nhật 10 phút/lần, cập nhật lần cuối: {{date}} (giờ Việt Nam).",
+    "status": "Trạng thái",
+    "email": "Email",
+    "amount": "Số lượng"
+}

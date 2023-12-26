@@ -1,0 +1,45 @@
+{
+    "connect_wallet": "Connect Wallet",
+    "description": "Hakifi landing page",
+    "update_rule": "Updated every 10 minutes, lastest updated: {{date}} (UTC).",
+    "status": "Status",
+    "email": "Email",
+    "amount": "Amount",
+    "footer": {
+        "product": {
+            "title": "Product",
+            "insurance": "Umbrellaz",
+            "calculator": "Calculator",
+            "referral": "Referral"
+        },
+        "document": {
+            "title": "Document",
+            "whitepaper": "Whitepaper",
+            "tutorial": "Tutorial",
+            "faqs": "FAQs",
+            "term": "Term of Service"
+        },
+        "learn": {
+            "title": "Learn"
+        },
+        "support": {
+            "title": "Support",
+            "collaborate": "Collaborate"
+        },
+        "community": {
+            "title": "Join the community"
+        },
+        "categories": {
+            "title": "Categories"
+        },
+        "on_boarding": {
+            "title": "On-Boarding",
+            "ter_sys": "Terminology System",
+            "status": "Status System",
+            "list_docs": "List of Tutorials in Docs"
+        }
+    },
+    "from": "From",
+    "to": "To",
+    "txhash": "Transaction hash"
+}

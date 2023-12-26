@@ -1,0 +1,51 @@
+{
+  "slogan_first": "Biến rủi ro thành lợi nhuận",
+  "buy_cover": "Buy Cover",
+  "title_map": "<span class='text-primary-3'>Minh bạch dữ liệu</span> <span class='text-primary-1 ml-1'>On-chain</span>",
+  "description_map": "Theo dõi thời gian thực các trạng thái hợp đồng cũng như nguồn quỹ Hakifi được công khai.",
+  "pool": {
+    "escrow": "Ký quỹ",
+    "refund": "Hoàn trả",
+    "transaction_entry": "Kết chuyển",
+    "fund": "Chi trả",
+    "financial_sp": "Hỗ trợ tài chính"
+  },
+  "asset_title": "Linh hoạt",
+  "asset_desc": "Hợp đồng bảo hiểm kích hoạt trong mọi hoàn cảnh thị trường bao gồm tăng và giảm giá",
+  "transparency_title": "Minh bạch",
+  "transparency_desc": "Công khai dữ liệu thống kê hợp đồng, minh bạch nguồn quỹ dự phòng của Hakifi",
+  "zero_title": "Bảo hiểm miễn phí",
+  "zero_desc": "Không phát sinh thêm phí từ thời điểm hợp đồng kích hoạt đến khi kết thúc",
+  "spot_futures_title": "Đa dạng",
+  "spot_futures_desc": "Sử dụng CoFu để quản trị rủi ro tài sản giao ngay, vị thế phái sinh cũng như sinh lời với Cover-to-earn",
+  "step": {
+    "step_2": "Kết nối ví",
+    "step_2_content": "Dễ dàng kết nối với các ví blockchain như Metamask, Walletconnect, OKX, Coin98, Trust wallet",
+    "step_3": "Tuỳ chỉnh thông số",
+    "step_3_content": "Sử dụng thông số gợi ý của chúng tôi hoặc tự do tuỳ chỉnh các thông số của hợp đồng trước khi xác nhận mở hợp đồng",
+    "step_4": "Ký và xác thực",
+    "step_4_content": "Ký xác thực trên ví và mở hợp đồng, giảm thiểu rủi ro trong các giao dịch của bạn ngay hôm nay!",
+    "start": "Bảo hiểm ngay",
+    "title": "<span class='text-primary-1'>3 bước</span> kích hoạt bảo hiểm thành công"
+  },
+  "nami": "We integrated Hakifi into Nami's ecosystem because the idea was innovative and suited to our user's tastes.",
+  "sci": "The utility of a price hedging protocol is undeniable. SCI Labs believes that Hakifi will develop more in the future.",
+  "vnst": "The concept of price hedging is simplified through Hakifi",
+  "advisor": {
+    "title": "Advisor",
+    "desc": "Hakifi is advised from the guidance of seasoned experts with many years of experience in Web3 and Fintech."
+  },
+  "dev": {
+    "title": "Team",
+    "desc": "Our Fintech-focused development team is driven by passion, creativity and enthusiasm",
+    "ceo": "Co-Founder and CEO",
+    "coo": "Chief Operation Officer",
+    "cto": "Chief Technical Officer",
+    "cmo": "Chief Marketing Officer",
+    "hopd": "Head of Product Design",
+    "pm": "Project Manager",
+    "be": "Back-end Developer",
+    "fe": "Front-end Developer"
+},
+"why_choose": "Why choose"
+}
